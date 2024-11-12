@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask-Cors==3.1.1  # Optional: If you plan to handle cross-origin requests
+numpy==1.23.3
+scikit-learn==1.1.2
+scikit-image==0.19.3
+gunicorn==20.1.0
